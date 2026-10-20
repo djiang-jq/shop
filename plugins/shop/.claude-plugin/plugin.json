@@ -4,5 +4,6 @@
   "description": "Shop across merchants through the Universal Commerce Protocol",
   "author": {
     "name": "Shopify"
-  }
+  },
+  "logo": "assets/logo.png"
 }

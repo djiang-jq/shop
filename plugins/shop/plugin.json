@@ -6,5 +6,6 @@
   "author": {
     "name": "Shopify"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "logo": "assets/logo.png"
 }
